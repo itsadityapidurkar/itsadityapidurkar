@@ -3,7 +3,7 @@ name: Latest blog post workflow
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:     # Allows manual trigger
+  workflow_dispatch:      # Allows manual run from GitHub UI
 
 jobs:
   update-readme-with-blog:
@@ -16,3 +16,4 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/adityapidurkar"
+          comment_tag_name: "BLOG-POST-LIST"  # Matches <!-- BLOG-POST-LIST:START -->
