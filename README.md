@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Trial Post for GitHub](https://dev.to/adityapidurkar/trial-post-for-github-24il)
 - [Understanding SQL Injection: The Classic Web App Attack](https://dev.to/adityapidurkar/understanding-sql-injection-the-classic-web-app-attack-gak)
 - [How Hackers Attack Web Apps — and How You Can Stop Them](https://dev.to/adityapidurkar/how-hackers-attack-web-apps-and-how-you-can-stop-them-ke4)
 <!-- BLOG-POST-LIST:END -->
