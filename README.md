@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OWASP Top 10 2025 What You Need To Know as a Security Engineer or Hacker](https://dev.to/adityapidurkar/owasp-top-10-2025-what-you-need-to-know-as-a-security-engineer-or-hacker-1cp1)
 - [Blackbird: The AI-Powered OSINT Account Enumeration Tool](https://dev.to/adityapidurkar/blackbird-the-ai-powered-osint-account-enumeration-tool-4382)
 <!-- BLOG-POST-LIST:END -->
 
