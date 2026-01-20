@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup Oracle VirtualBox in Windows 11](https://dev.to/adityapidurkar/setup-oracle-virtualbox-in-windows-11-phm)
 - [20% of internet down: Why X, ChatGPT, and Cloudflare were Down](https://dev.to/adityapidurkar/update-why-x-chatgpt-and-cloudflare-are-down-14b6)
 - [OWASP Top 10 2025 What You Need To Know as a Security Engineer or Hacker](https://dev.to/adityapidurkar/owasp-top-10-2025-what-you-need-to-know-as-a-security-engineer-or-hacker-1cp1)
 - [Blackbird: The AI-Powered OSINT Account Enumeration Tool](https://dev.to/adityapidurkar/blackbird-the-ai-powered-osint-account-enumeration-tool-4382)
