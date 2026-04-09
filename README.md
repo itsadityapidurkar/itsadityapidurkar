@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Pidurkar</h1>
-<h3 align="center">Student | Cybersecurity Enthusiast | THM Nagpur</h3>
+<h1 align="center">I am <b>Aditya Pidurkar</b></h1>
+<h3 align="center">Student | Aspiring Network Engineer | ThunderCipher | THM Nagpur</h3>
 
 - 🌱 I’m currently learning **Networking**
 
@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [https://dev.to/adityapidurkar](https://dev.to/adityapidurkar)
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **Networking**
 
-- 📫 How to reach me **contactme-ap@proton.me**
+- 📫 How to reach me **adityapidurkar@proton.me**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
