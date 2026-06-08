@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Your CTF Listed on CTFtime](https://dev.to/adityapidurkar/how-to-get-your-ctf-listed-on-ctftime-34dj)
 - [Agentic AI: The Next Big Cybersecurity Threat?](https://dev.to/adityapidurkar/agentic-ai-the-next-big-cybersecurity-threat-55dd)
 - [Nobody Talks About This Cyber Threat, But It&#39;s Everywhere](https://dev.to/adityapidurkar/nobody-talks-about-this-cyber-threat-but-its-everywhere-1482)
 - [Setup Oracle VirtualBox in Windows 11](https://dev.to/adityapidurkar/setup-oracle-virtualbox-in-windows-11-phm)
-- [20% of internet down: Why X, ChatGPT, and Cloudflare were Down](https://dev.to/adityapidurkar/update-why-x-chatgpt-and-cloudflare-are-down-14b6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
