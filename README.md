@@ -1,34 +1,51 @@
-<h1 align="center">I am <b>Aditya Pidurkar</b></h1>
-<h3 align="center">Student | Aspiring Network Engineer | ThunderCipher | THM Nagpur</h3>
+## About Me
 
-- 🌱 I’m currently learning **Networking**
+I'm a B.Tech Computer Science (AI & DS) student at **Shri Ramdeobaba University**, graduating in **2028**.
 
-- 👯 I’m looking to collaborate on **CTFs**
+My primary interest is **Network Security**. I enjoy building hands-on networking labs, solving CTF challenges, analyzing network traffic, and writing about cybersecurity.
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsadityapidurkar](https://github.com/itsadityapidurkar)
+### Current Focus
 
-- 📝 I regularly write articles on [https://dev.to/adityapidurkar](https://dev.to/adityapidurkar)
+- Network Security
+- Cisco Networking
+- Capture The Flag (CTFs)
+- Packet Analysis
+- Post-Quantum Cryptography
 
-- 💬 Ask me about **Networking**
+### Current Goals
 
-- 📫 How to reach me **adityapidurkar@proton.me**
+- Preparing for CCNA
+- Preparing for CompTIA Security+
+- Learning Post-Quantum Cryptography
+- Improving practical networking and offensive security skills
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Get Your CTF Listed on CTFtime](https://dev.to/adityapidurkar/how-to-get-your-ctf-listed-on-ctftime-34dj)
-- [Agentic AI: The Next Big Cybersecurity Threat?](https://dev.to/adityapidurkar/agentic-ai-the-next-big-cybersecurity-threat-55dd)
-- [Nobody Talks About This Cyber Threat, But It&#39;s Everywhere](https://dev.to/adityapidurkar/nobody-talks-about-this-cyber-threat-but-its-everywhere-1482)
-- [Setup Oracle VirtualBox in Windows 11](https://dev.to/adityapidurkar/setup-oracle-virtualbox-in-windows-11-phm)
-<!-- BLOG-POST-LIST:END -->
+### Communities
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/adityapidurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityapidurkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adityapidurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityapidurkar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/adityapidurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adityapidurkar" height="30" width="40" /></a>
-</p>
+- ThunderCipher
+- OWASP Nagpur (Core Team)
+- The Hackers Meetup Nagpur (Core Team)
+- SecLeaf
+- National Service Scheme (NSS)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+### CTF Platforms
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsadityapidurkar&show_icons=true&theme=onedark&locale=en" alt="itsadityapidurkar" /></p>
+- picoCTF
+- OverTheWire
+
+I'm always interested in collaborating on CTFs and cybersecurity projects.
+
+---
+
+## Technical Writing
+
+I regularly publish articles and writeups on cybersecurity, networking, and CTFs.
+
+- **Blog:** https://dev.to/adityapidurkar
+- **Writeups:** https://writeups.adityapidurkar.in
+
+### Recent Articles
+
+- How to Get Your CTF Listed on CTFtime
+- Agentic AI: The Next Big Cybersecurity Threat?
+- Nobody Talks About This Cyber Threat, But It's Everywhere
+- Setup Oracle VirtualBox in Windows 11
